@@ -80,6 +80,26 @@
           "md5": "9c9616580389114844233591e913ec00"
         }
       ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ed-commons-1.0.0-sources.jar",
+          "url": "ed-commons-1.0.0-sources.jar",
+          "size": 30162,
+          "sha512": "d7e074b3f3dadb6299350b87c500711f1c712a4312ac10b7fbc33b8b26743fcc6dd0fef839f8a850e99529775bc3d95e9674116b76a32d0543a436affaeb23c9",
+          "sha256": "2b048b3eca78faafb3ab81e2fb4b9577cf79b04100a3803cdefab356ec0ea337",
+          "sha1": "ecd3343a7c5dec837a121145d1273da5d0c792e9",
+          "md5": "8dad8f9df226fb2e6174f4efd16687ab"
+        }
+      ]
     }
   ]
 }
