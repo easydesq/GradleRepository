@@ -1,0 +1,85 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.easydesq",
+    "module": "ed-commons",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ed-commons-1.0.0-plain.jar",
+          "url": "ed-commons-1.0.0-plain.jar",
+          "size": 62725,
+          "sha512": "7eac597d45ead00379f92d0ab37005a6ae5db840da2c81524c00f58fef6ad2a716cc4a959b05d351b0933232882368379ac322503b6b9969666a630283f1f986",
+          "sha256": "a23188398988792c513f5e2b2d15784f984db0fc0ebd5e42cbf55311bc53b18d",
+          "sha1": "e38011149242792d73f97761d8910f4aa8e68dce",
+          "md5": "9c9616580389114844233591e913ec00"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-actuator"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa"
+        },
+        {
+          "group": "org.projectlombok",
+          "module": "lombok",
+          "version": {
+            "requires": "1.18.24"
+          }
+        },
+        {
+          "group": "mysql",
+          "module": "mysql-connector-java"
+        }
+      ],
+      "files": [
+        {
+          "name": "ed-commons-1.0.0-plain.jar",
+          "url": "ed-commons-1.0.0-plain.jar",
+          "size": 62725,
+          "sha512": "7eac597d45ead00379f92d0ab37005a6ae5db840da2c81524c00f58fef6ad2a716cc4a959b05d351b0933232882368379ac322503b6b9969666a630283f1f986",
+          "sha256": "a23188398988792c513f5e2b2d15784f984db0fc0ebd5e42cbf55311bc53b18d",
+          "sha1": "e38011149242792d73f97761d8910f4aa8e68dce",
+          "md5": "9c9616580389114844233591e913ec00"
+        }
+      ]
+    }
+  ]
+}
