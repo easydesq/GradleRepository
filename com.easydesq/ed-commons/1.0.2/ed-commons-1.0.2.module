@@ -1,0 +1,105 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.easydesq",
+    "module": "ed-commons",
+    "version": "1.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ed-commons-1.0.2-sources.jar",
+          "url": "ed-commons-1.0.2-sources.jar",
+          "size": 34326,
+          "sha512": "b61463f497d63c44ab9fdf402078ac3491f967f53e0dac97a97bef08179263cc40a5a6c23a05090ca6e7dec17028da1eb38c1d9454429b5bc733e76270cd2755",
+          "sha256": "26ce2d6b0f31470184bc0539561b1d4ed64db5bb7cccb856c4c4102003230044",
+          "sha1": "b020d457ca944bd23fc727941ed9d9f9a3d6e58f",
+          "md5": "a33c35fe599c03f731011543ef8e143e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-actuator"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa"
+        },
+        {
+          "group": "org.projectlombok",
+          "module": "lombok",
+          "version": {
+            "requires": "1.18.24"
+          }
+        },
+        {
+          "group": "mysql",
+          "module": "mysql-connector-java"
+        }
+      ],
+      "files": [
+        {
+          "name": "ed-commons-1.0.2-sources.jar",
+          "url": "ed-commons-1.0.2-sources.jar",
+          "size": 34326,
+          "sha512": "b61463f497d63c44ab9fdf402078ac3491f967f53e0dac97a97bef08179263cc40a5a6c23a05090ca6e7dec17028da1eb38c1d9454429b5bc733e76270cd2755",
+          "sha256": "26ce2d6b0f31470184bc0539561b1d4ed64db5bb7cccb856c4c4102003230044",
+          "sha1": "b020d457ca944bd23fc727941ed9d9f9a3d6e58f",
+          "md5": "a33c35fe599c03f731011543ef8e143e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ed-commons-1.0.2-sources.jar",
+          "url": "ed-commons-1.0.2-sources.jar",
+          "size": 34326,
+          "sha512": "b61463f497d63c44ab9fdf402078ac3491f967f53e0dac97a97bef08179263cc40a5a6c23a05090ca6e7dec17028da1eb38c1d9454429b5bc733e76270cd2755",
+          "sha256": "26ce2d6b0f31470184bc0539561b1d4ed64db5bb7cccb856c4c4102003230044",
+          "sha1": "b020d457ca944bd23fc727941ed9d9f9a3d6e58f",
+          "md5": "a33c35fe599c03f731011543ef8e143e"
+        }
+      ]
+    }
+  ]
+}
