@@ -1,0 +1,105 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.easydesq",
+    "module": "ed-commons",
+    "version": "1.0.7.feature.differentSequenceForEachTable.snapshot",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ed-commons-1.0.7.feature.differentSequenceForEachTable.snapshot-plain.jar",
+          "url": "ed-commons-1.0.7.feature.differentSequenceForEachTable.snapshot-plain.jar",
+          "size": 101745,
+          "sha512": "65085b4c2f0ff1d8252c35c82d1d465a6765b8d61876e078368c8d12d910d1fae1b87787c57e9176794bc1e6a11accbf8244ce6b6f164fbacc706087931ed9ce",
+          "sha256": "00c7b8e8d6410f15cf564a202d014bfbcde4478489456f52532101f8bc43f739",
+          "sha1": "b5125306e74e68e4dbae88f4a84b5bff6f7e4ea4",
+          "md5": "cf6859f0a29c58b26837d9205564c45d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-actuator"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa"
+        },
+        {
+          "group": "org.projectlombok",
+          "module": "lombok",
+          "version": {
+            "requires": "1.18.24"
+          }
+        },
+        {
+          "group": "mysql",
+          "module": "mysql-connector-java"
+        }
+      ],
+      "files": [
+        {
+          "name": "ed-commons-1.0.7.feature.differentSequenceForEachTable.snapshot-plain.jar",
+          "url": "ed-commons-1.0.7.feature.differentSequenceForEachTable.snapshot-plain.jar",
+          "size": 101745,
+          "sha512": "65085b4c2f0ff1d8252c35c82d1d465a6765b8d61876e078368c8d12d910d1fae1b87787c57e9176794bc1e6a11accbf8244ce6b6f164fbacc706087931ed9ce",
+          "sha256": "00c7b8e8d6410f15cf564a202d014bfbcde4478489456f52532101f8bc43f739",
+          "sha1": "b5125306e74e68e4dbae88f4a84b5bff6f7e4ea4",
+          "md5": "cf6859f0a29c58b26837d9205564c45d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ed-commons-1.0.7.feature.differentSequenceForEachTable.snapshot-sources.jar",
+          "url": "ed-commons-1.0.7.feature.differentSequenceForEachTable.snapshot-sources.jar",
+          "size": 48273,
+          "sha512": "b9c3fad1693286bbb4b240e93388ae98366b89593077999040b2cfc31f4b44252b2a0c5eaaee0247e81e1ae1f617f3dda5e2db160b023220bf3aae9b7098b344",
+          "sha256": "bcece3b59625b6755782b617a5077938fd2ebd69560896057d6e8e3a83ac3503",
+          "sha1": "caa3fd2aa203c51fa65eeee24933a0af48659168",
+          "md5": "b307f38d2046ed3e4b6153c0f87d534c"
+        }
+      ]
+    }
+  ]
+}

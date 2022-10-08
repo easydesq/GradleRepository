@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.easydesq</groupId>
+  <artifactId>ed-commons</artifactId>
+  <version>1.0.7.feature.differentSequenceForEachTable.snapshot</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20221008060504</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.7.feature.differentSequenceForEachTable.snapshot</value>
+        <updated>20221008060504</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.7.feature.differentSequenceForEachTable.snapshot</value>
+        <updated>20221008060504</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.0.7.feature.differentSequenceForEachTable.snapshot</value>
+        <updated>20221008060504</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>plain</classifier>
+        <extension>jar</extension>
+        <value>1.0.7.feature.differentSequenceForEachTable.snapshot</value>
+        <updated>20221008060504</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
