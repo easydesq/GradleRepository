@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.easydesq</groupId>
+  <artifactId>ed-commons</artifactId>
+  <version>1.0.8.feature.contractbillingbharat.snapshot</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20221010163453</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>plain</classifier>
+        <extension>jar</extension>
+        <value>1.0.8.feature.contractbillingbharat.snapshot</value>
+        <updated>20221010163453</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.8.feature.contractbillingbharat.snapshot</value>
+        <updated>20221010163453</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.8.feature.contractbillingbharat.snapshot</value>
+        <updated>20221010163453</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.0.8.feature.contractbillingbharat.snapshot</value>
+        <updated>20221010163453</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
