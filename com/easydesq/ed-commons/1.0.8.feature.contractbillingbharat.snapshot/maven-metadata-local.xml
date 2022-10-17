@@ -7,29 +7,29 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20221013062754</lastUpdated>
+    <lastUpdated>20221017191015</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>module</extension>
         <value>1.0.8.feature.contractbillingbharat.snapshot</value>
-        <updated>20221013062754</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>1.0.8.feature.contractbillingbharat.snapshot</value>
-        <updated>20221013062754</updated>
+        <updated>20221017191015</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>plain</classifier>
         <extension>jar</extension>
         <value>1.0.8.feature.contractbillingbharat.snapshot</value>
-        <updated>20221013062754</updated>
+        <updated>20221017191015</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>1.0.8.feature.contractbillingbharat.snapshot</value>
-        <updated>20221013062754</updated>
+        <updated>20221017191015</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.8.feature.contractbillingbharat.snapshot</value>
+        <updated>20221017191015</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

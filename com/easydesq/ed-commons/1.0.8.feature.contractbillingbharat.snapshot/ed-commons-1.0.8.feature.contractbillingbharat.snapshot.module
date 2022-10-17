@@ -27,11 +27,11 @@
         {
           "name": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-plain.jar",
           "url": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-plain.jar",
-          "size": 100353,
-          "sha512": "b8339d88a226c623d3699e53e270d000f56e8c0b1b5b972bd8e803677de7014cc851f391879b6a1e4cb58f251442093a7806a877519aff28d859b916d96dadbd",
-          "sha256": "a8d4d8ea7b8e43863cef0a958038e9cd50240f8cf280b8eca1e9d22eb4835516",
-          "sha1": "409ba08850b68d2b1095f48ba5884354441f8cf4",
-          "md5": "21b99e027021cc176c7b69342d32a4a7"
+          "size": 100897,
+          "sha512": "32b1769fe577c281e94d4c9dff418d7b20b1eb8628abbdc31ffc66cc697e15317f78cabc5f42963d3feb8274b52d76e4c3d52cb76a60ff5eca27ad79cd8029e1",
+          "sha256": "64663cdb41cf597762e19d81621909dd070c1a5f758fc2abdac611d0299687be",
+          "sha1": "9a7cfdd26d7cb71810e2abfc114fc83ecf79b4ec",
+          "md5": "aa4c25dab31d310a28daa85a946135a6"
         }
       ]
     },
@@ -73,11 +73,11 @@
         {
           "name": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-plain.jar",
           "url": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-plain.jar",
-          "size": 100353,
-          "sha512": "b8339d88a226c623d3699e53e270d000f56e8c0b1b5b972bd8e803677de7014cc851f391879b6a1e4cb58f251442093a7806a877519aff28d859b916d96dadbd",
-          "sha256": "a8d4d8ea7b8e43863cef0a958038e9cd50240f8cf280b8eca1e9d22eb4835516",
-          "sha1": "409ba08850b68d2b1095f48ba5884354441f8cf4",
-          "md5": "21b99e027021cc176c7b69342d32a4a7"
+          "size": 100897,
+          "sha512": "32b1769fe577c281e94d4c9dff418d7b20b1eb8628abbdc31ffc66cc697e15317f78cabc5f42963d3feb8274b52d76e4c3d52cb76a60ff5eca27ad79cd8029e1",
+          "sha256": "64663cdb41cf597762e19d81621909dd070c1a5f758fc2abdac611d0299687be",
+          "sha1": "9a7cfdd26d7cb71810e2abfc114fc83ecf79b4ec",
+          "md5": "aa4c25dab31d310a28daa85a946135a6"
         }
       ]
     },
@@ -93,11 +93,11 @@
         {
           "name": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-sources.jar",
           "url": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-sources.jar",
-          "size": 47129,
-          "sha512": "d1ea5f58dbb3a3716906e6a60177e34a5a2f80c64c46bade519dfa22b41cf0796459e2fcf4e20051e09dc4d068c3cd710d8eb3c960124173b53ab6fff1494b7a",
-          "sha256": "336d0660145d5ba4a9935683aec22a539dd7a04e93e2c3a0c415c6910b59743b",
-          "sha1": "411400c86944103a02f6122e99c3f6105075fcb9",
-          "md5": "5727ffd6866d053400797c34272d145b"
+          "size": 47542,
+          "sha512": "a5f9e61645e65913daa25c0e9c6fc338fd93c6ac314eba61a2907087c1abbf4d576c0694c6613faf6cb4f84f45210adfeadd4024e4074a0816499ed6cf46d1e0",
+          "sha256": "f98c2883066d74442d78955bb77a20662c791ccad74a69efbd9d19c15a4a1daa",
+          "sha1": "b1028c7883c1b61963ef77c28053800efda14db5",
+          "md5": "9b5a303e8b3ce4766e1fa0fe22b1cc6f"
         }
       ]
     }
