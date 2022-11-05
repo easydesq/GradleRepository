@@ -1,0 +1,105 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.easydesq",
+    "module": "ed-commons",
+    "version": "1.0.8.feature.contractbillingbharat.snapshot",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-plain.jar",
+          "url": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-plain.jar",
+          "size": 101530,
+          "sha512": "3158c2c1fa0d38d623cc2c173f84b7fde78321d30d0285925ad19695d0c1aa7ea4341bb428bfe4657af4f4d307e39250e76c6fb6a03ed5ae7aa7ab56cca4dc2a",
+          "sha256": "597b049d12e6610784a39e6a0d8f10b62f9ebe453152143e603a6cd7eb2a64a8",
+          "sha1": "78a30f827fe5d16edb01cc62ee8ed899e51692c7",
+          "md5": "4cb38e85686982bcca8a6f33ee2fab2b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-actuator"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa"
+        },
+        {
+          "group": "org.projectlombok",
+          "module": "lombok",
+          "version": {
+            "requires": "1.18.24"
+          }
+        },
+        {
+          "group": "mysql",
+          "module": "mysql-connector-java"
+        }
+      ],
+      "files": [
+        {
+          "name": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-plain.jar",
+          "url": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-plain.jar",
+          "size": 101530,
+          "sha512": "3158c2c1fa0d38d623cc2c173f84b7fde78321d30d0285925ad19695d0c1aa7ea4341bb428bfe4657af4f4d307e39250e76c6fb6a03ed5ae7aa7ab56cca4dc2a",
+          "sha256": "597b049d12e6610784a39e6a0d8f10b62f9ebe453152143e603a6cd7eb2a64a8",
+          "sha1": "78a30f827fe5d16edb01cc62ee8ed899e51692c7",
+          "md5": "4cb38e85686982bcca8a6f33ee2fab2b"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-sources.jar",
+          "url": "ed-commons-1.0.8.feature.contractbillingbharat.snapshot-sources.jar",
+          "size": 48003,
+          "sha512": "d693d9495a22af03a4fb84a5524001c797563d1f311ccac700ffce68dda073ce2ae83fa92430c8c35806c6f5efcc8e75515fc74c6beea49c04bc8c6b04a1df7c",
+          "sha256": "cd99d2a3db9b3eaca726d5667647f488f3b6e481146c8e6963931363836b9344",
+          "sha1": "1fc91c282becd0bff039c3ab8910fce3ae432da6",
+          "md5": "4fcf4d2ecd0cab8808802f7018a3062f"
+        }
+      ]
+    }
+  ]
+}
